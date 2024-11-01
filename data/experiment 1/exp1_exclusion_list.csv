@@ -1,0 +1,11 @@
+speaker,reason_for_exclusion,acc_on_unambig,notes,participant_id
+child,accuracy_on_unambig,38.66667,,66
+adult,accuracy_on_unambig,46,,67
+adult,accuracy_on_unambig,50,,78
+adult,accuracy_on_unambig,59.25,,69
+child,accuracy_on_unambig,63.25,,32
+child,accuracy_on_unambig,64.58333,,25
+adult,technical issue,NA,"completed the task twice, only one strategy",87
+child,misunderstood_instr,NA,,22
+adult,misunderstood_instr,NA,misunderstood the instructions – selected the competitor on 7 out of 8 critical,1
+child,misunderstood instr? Mismatch between strategy and performance,NA,"On 3 out of 8 critical, prefers the competitor, on another trial, assigns 50-50 probability to target and distractor. Strategy is meta_reasoning. Doesn’t add up.",30

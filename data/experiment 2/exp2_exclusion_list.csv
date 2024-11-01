@@ -1,0 +1,27 @@
+speaker,reason.for.exclusion,unambig_acc,notes,participant_id
+adult,odd_one_out,NA,odd one out on 6 out of 8 trials,245
+adult,misunderstood_instr,NA,collected to replace 5a50d760eedc32000141fb83 but needs to be replaced themselves,275
+adult,accuracy on unambig,48.75,,271
+adult,accuracy on unambig,46.33333,,272
+adult,accuracy on unambig,41.16667,,265
+adult,accuracy on unambig,38.5,,268
+adult,accuracy on unambig,33.75,,270
+adult,accuracy on unambig,48.41667,,239
+adult,accuracy on unambig,78.08333,,242
+child,misunderstood_instr,NA,,130
+child,misunderstood_instr,NA,,157
+child,misunderstood_instr,NA,,144
+child,misunderstood_instr,NA,,180
+child,misunderstood_instr,NA,on 4 out of 8 trials looks like misunderstood instructions,167
+child,accuracy on unambig,60.08333,,168
+child,accuracy on unambig,69.08333,,99
+child,accuracy on unambig,72,,139
+child,accuracy on unambig,56.75,,176
+child,accuracy on unambig,51.66667,,112
+child,accuracy on unambig,73.58333,,135
+child,accuracy on unambig,67.75,,136
+child,accuracy on unambig,75,,106
+child,accuracy on unambig,56,,145
+child,accuracy on unambig,68.83333,,149
+child,accuracy on unambig,68.33333,,133
+child,accuracy on unambig,56.83333,collected as a replacement but needed to be replaced themselves,182

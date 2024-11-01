@@ -1,0 +1,193 @@
+itemid,msg,target,competitor,distractor,prob_target,prob_competitor,prob_distractor,explanation,strategy_tag,strategy_subtag,notes,participant_id
+1,tr,tr_bl,tr_re,sq_gr,100,0,0,because she didn't choose red,correct_reasoning,NA,,90
+1,tr,tr_bl,tr_re,sq_gr,75,25,0,No blue paint was available to choose,correct_reasoning,NA,,91
+1,tr,tr_bl,tr_re,sq_gr,50,50,0,shape matches both,guess,NA,,92
+2,tr,tr_bl,tr_gr,ci_re,50,50,0,chose 50% for both of the options that have the same shape,guess,NA,,93
+2,tr,tr_bl,tr_gr,ci_re,51,49,0,It could mean either triangle,guess,NA,,94
+2,tr,tr_bl,tr_gr,ci_re,50,50,0,"The child is intending for you to pick one of the triangle shapes - in hindsight, it might be more likely to be the blue triangle (as if it was the green one they could have selected the green colour)",guess,NA,changed their mind later but still explains their decision,95
+3,ci,ci_bl,ci_re,tr_gr,100,0,0,Where there wasn't colour options the children chose the shapes. So it was just working out what colour and shape wasn't in the options.,correct_reasoning,NA,,96
+3,ci,ci_bl,ci_re,tr_gr,50,50,0,because it could be either circle,guess,NA,,97
+3,ci,ci_bl,ci_re,tr_gr,57,43,0,"I consider the shape and the colour the child has chosen and what relates to them in the options.
+
+I will then sum them up to a 100",unclear,NA,,98
+4,ci,ci_bl,ci_gr,sq_re,0,100,0,It is more likely they choose green as choose a circle and it could not be a blue circle so it had to be a green circle.,misunderstood_instr,NA,,99
+4,ci,ci_bl,ci_gr,sq_re,50,50,0,There was an equal chance of either circle,guess,NA,,100
+4,ci,ci_bl,ci_gr,sq_re,87,13,0,There is no blue option so they could have chosen circle because of that but it could be for the green if they just chose the circle as of the shape over the colour.,correct_reasoning,NA,or meta_reasoning?,101
+4,ci,ci_bl,ci_gr,sq_re,50,50,0,It could have been either circle.,guess,NA,,102
+4,ci,ci_bl,ci_gr,sq_re,50,50,0,"Child chose a circle, there are  2 circles so 50% chance of either being correct",guess,NA,,103
+4,ci,ci_bl,ci_gr,sq_re,50,50,0,"there are the only shapes to choose from that would be the kids choice,",unclear,NA,,104
+4,ci,ci_bl,ci_gr,sq_re,73,27,0,"because it has to be a circle, and there isn't an option to choose blue. So the empty circle would be the correct choice from the child if the blue circle had the yellow background, but I don't know how good kids are at thinking logically like that.",meta_reasoning,NA,,105
+5,re,sq_re,ci_re,tr_bl,70,25,5,"Assuming it is the square that's highlighted and the child is playing correctly, red splash would be the only choice to convey the correct item.
+Next most likely is that circle is actually the highlighted symbol and the child has mistakenly picked red because the circle is also red.
+Least likely is that the child would red splash to indicate a blue triangle.",meta_reasoning,NA,,106
+5,re,sq_re,ci_re,tr_bl,50,50,0,Because the red could mean either shape but I do not believe it to be the triangle as this is a completely different colour.,guess,NA,,107
+5,re,sq_re,ci_re,tr_bl,75,25,0,"There is no square option available, so they most-likely chose red to represent the square, however there is still a chance they chose red to represent a circle",correct_reasoning,NA,or meta_reasoning?,108
+5,re,sq_re,ci_re,tr_bl,50,50,0,Because both shapes were red- she just had red paint,guess,NA,,109
+5,re,sq_re,ci_re,tr_bl,50,50,0,The probability of either as they are the same colour,guess,NA,,110
+6,re,sq_re,tr_re,ci_gr,100,0,0,The child could have picked the triangle to direct me to the triangle but picked red instead so I believe wanted to direct me away from the triangle to the square,correct_reasoning,NA,,111
+7,gr,sq_gr,ci_gr,tr_re,43,44,13,I think the child will e more influenced by the colours,salience/preference,NA,or guess?,112
+7,gr,sq_gr,ci_gr,tr_re,100,0,0,"Some were obviously, as they were the only kind of that colour/shape. Whereas, others, I assumed pick the colour if there was 2 of the same shapes in different colours.",unclear,NA,,113
+8,gr,sq_gr,tr_gr,ci_bl,50,50,0,"Because both shapes have the same colour inside, I split the probability 50/50 on either a square or triangle",guess,NA,,114
+8,gr,sq_gr,tr_gr,ci_bl,50,50,0,There are two green shapes so it's 50/50 which one was chosen.,guess,NA,,115
+8,gr,sq_gr,tr_gr,ci_bl,50,50,0,Cause its a 50/50 chance to pick either of the green shapes,guess,NA,,116
+8,gr,sq_gr,tr_gr,ci_bl,100,0,0,it could only be green and there was no square available to choose from,correct_reasoning,NA,,117
+3,ci,ci_bl,ci_re,tr_gr,53,47,0,The choice was one of the two circle shapes - the blue seems more striking so I thought maybe they would have noticed that more than the red,salience/preference,NA,,118
+7,gr,sq_gr,ci_gr,tr_re,82,18,0,"there are two green, but no blank square so thought that would be the best choice for a green square",correct_reasoning,NA,,119
+5,re,sq_re,ci_re,tr_bl,50,50,0,The odds are 50/50 based on the single hint of the color being red,guess,NA,,120
+1,tr,tr_bl,tr_re,sq_gr,100,0,0,If the child wanted me to pick the red triangle they could have selected the colour red. They were unable to select the colour blue so selected a triangle instead.,correct_reasoning,NA,,121
+4,ci,ci_bl,ci_gr,sq_re,47,47,6,chances are more likely that the circle is what the child was faced with,unclear,NA,,122
+6,re,sq_re,tr_re,ci_gr,50,50,0,I think I went for the most logical likelihood and ignored that they were a young child.,unclear,NA,,123
+4,ci,ci_bl,ci_gr,sq_re,51,49,0,"Base on how I thought the child reasoned, for each one.",unclear,NA,,124
+2,tr,tr_bl,tr_gr,ci_re,50,50,0,The child chose the triangle so it was a 50/50 choice of which triangle.,guess,NA,,125
+5,re,sq_re,ci_re,tr_bl,100,0,0,The choice of red suggests the shape the child wanted me to pick wasnt available to choose so i picked the shape that wasnt a choice,correct_reasoning,NA,,126
+3,ci,ci_bl,ci_re,tr_gr,50,50,0,because there are two circles so its a 50/50 chance it could be either,guess,NA,,127
+3,ci,ci_bl,ci_re,tr_gr,45,45,10,"Because the child is probably picking one of the circles because the chosen shape is a circle, but it could be the child is saying that this is NOT the shape I am picking, which would mean that it is the green triangle",correct_reasoning,NA,,128
+3,ci,ci_bl,ci_re,tr_gr,50,50,0,"I've made an error to be honest, after carefully thinking just now it should be blue.",changed_mind,NA,,129
+7,gr,sq_gr,ci_gr,tr_re,0,100,0,"the child was not given a square message, only a circular one, which is green",misunderstood_instr,NA,,130
+7,gr,sq_gr,ci_gr,tr_re,50,50,0,Because they selected green so it is a 50% chance of it being the green circle or green triangle,guess,NA,,131
+7,gr,sq_gr,ci_gr,tr_re,60,40,0,"The child would have been unable to choose a square to identify that shape so would have chosen based on the colour. If they had of wanted to identify the circle, they would have most likely chosen the circle card.",correct_reasoning,NA,,132
+5,re,sq_re,ci_re,tr_bl,38,39,23,as the child went by color it would be more of a coin flip to which one the child would choose,guess,NA,,133
+5,re,sq_re,ci_re,tr_bl,100,0,0,red is the only thing to choose for a red square,correct_reasoning,NA,,134
+8,gr,sq_gr,tr_gr,ci_bl,64,36,0,The child would have picked up the first shape with a green colour which in this case is a square,salience/preference,NA,target position,135
+1,tr,tr_bl,tr_re,sq_gr,48,48,4,agnostic to colour so equal chance,guess,NA,,136
+5,re,sq_re,ci_re,tr_bl,100,0,0,"Circle was available and not chosen, so red was the only option for square.",correct_reasoning,NA,,137
+5,re,sq_re,ci_re,tr_bl,50,50,0,It would be the only way that they could go based on the information from the child.,unclear,NA,or guess?,138
+2,tr,tr_bl,tr_gr,ci_re,40,42,18,Triangle is the likely outcome,guess,NA,,139
+8,gr,sq_gr,tr_gr,ci_bl,75,25,0,"There was a triangle they could have used, but not a square, so it's likely it was the green square they wanted me to pick",correct_reasoning,NA,,140
+5,re,sq_re,ci_re,tr_bl,50,50,0,Thought there was a 50/50 chance of either,guess,NA,,141
+1,tr,tr_bl,tr_re,sq_gr,49,51,0,I thought there was a chance of either.,guess,NA,,142
+4,ci,ci_bl,ci_gr,sq_re,100,0,0,Because I am eliminating the other options and that usually leaves me with the most likely scenario.,unclear,NA,,143
+2,tr,tr_bl,tr_gr,ci_re,0,100,0,As it seems to make the most sense out of all available options,unclear,NA,misunderstood_instr?,144
+1,tr,tr_bl,tr_re,sq_gr,51,49,0,There are 2 triangle shapes so it may have been equal and regardless of the colour of the shapes,guess,NA,,145
+2,tr,tr_bl,tr_gr,ci_re,100,0,0,I felt that if the colours didn't match then they would have chosen the shape instead as the indicator.,correct_reasoning,NA,,146
+3,ci,ci_bl,ci_re,tr_gr,75,25,0,"They may have chosen red, so choosing circle might have prompted them to give a better hint.",correct_reasoning,NA,,147
+3,ci,ci_bl,ci_re,tr_gr,50,50,0,Both of them are circle shapes but the colour hasn't been specified. So there is a 50/50 chance the child choose either one.,guess,NA,,148
+5,re,sq_re,ci_re,tr_bl,0,100,0,children are smart,unclear,NA,misunderstood_instr?,149
+1,tr,tr_bl,tr_re,sq_gr,54,46,0,because she chose triangle and there are 2 so i put it so either one of them could be the right one,guess,NA,,150
+8,gr,sq_gr,tr_gr,ci_bl,70,30,0,The hint of green most likely means the green square because if the triangle was the correct answer they probably would selected the triangle as the hint,correct_reasoning,NA,,151
+3,ci,ci_bl,ci_re,tr_gr,71,29,0,if it was the red circle they could have chosen red. This depends on the mental age of the child.,meta_reasoning,NA,,152
+2,tr,tr_bl,tr_gr,ci_re,50,50,0,"There are two triangle shapes, the child didn't choose a colour so it is unclear which triangle they were referring to",guess,NA,,153
+2,tr,tr_bl,tr_gr,ci_re,50,50,0,Because there are two triangles. No colour is chosen so 50/50 chance.,guess,NA,,154
+7,gr,sq_gr,ci_gr,tr_re,50,50,0,Because both shapes are green and the child chose the colour green as a hint.,guess,NA,,155
+5,re,sq_re,ci_re,tr_bl,50,50,0,It was based on the probability of the right colour or shape,unclear,NA,,156
+3,ci,ci_bl,ci_re,tr_gr,0,100,0,"the child chose a circle, and only red was available to match",misunderstood_instr,NA,I think?,157
+2,tr,tr_bl,tr_gr,ci_re,50,50,0,because there are 2 triangles,guess,NA,,158
+8,gr,sq_gr,tr_gr,ci_bl,48,52,0,Child chose green so its 50/50 out of the green shapes,guess,NA,,159
+8,gr,sq_gr,tr_gr,ci_bl,98,2,0,There is no square for the child to choose.,correct_reasoning,NA,,160
+1,tr,tr_bl,tr_re,sq_gr,48,52,0,"The child is letting me know the image is a triangle, however due to the fact there are two, is unable to give further clue",guess,NA,,161
+7,gr,sq_gr,ci_gr,tr_re,100,0,0,"there was no square to choose, so they had to choose green as the best hint",correct_reasoning,NA,,162
+8,gr,sq_gr,tr_gr,ci_bl,50,50,0,the clue is green so it is equally likely to be the triangle or the square,guess,NA,,163
+4,ci,ci_bl,ci_gr,sq_re,50,50,0,because the same shape had 2 different colors,guess,NA,,164
+5,re,sq_re,ci_re,tr_bl,50,50,0,Because there are two red shapes so it could have been either one,guess,NA,,165
+2,tr,tr_bl,tr_gr,ci_re,100,0,0,If the child showed a triangle and there were multiuple triangles I guess that they were wanting me to choose the non green or red one,correct_reasoning,NA,,166
+5,re,sq_re,ci_re,tr_bl,50,50,0,because it could have been either shape.,guess,NA,,167
+2,tr,tr_bl,tr_gr,ci_re,41,39,20,I think it was the likely choice.,unclear,NA,,168
+5,re,sq_re,ci_re,tr_bl,95,5,0,"The child chose red which could be a circle or a square. However, circle was also an option and the only one and they didn't choose that. Therefore, I am making the assumption that it is most likely the square.",correct_reasoning,NA,,169
+4,ci,ci_bl,ci_gr,sq_re,100,0,0,"They are definitely indicating a circle, there is no colour swatch for the blue circle so by process of elimiation the white circle indicates the blue one",correct_reasoning,NA,,170
+4,ci,ci_bl,ci_gr,sq_re,52,48,0,there are two circles to choose from,guess,NA,,171
+2,tr,tr_bl,tr_gr,ci_re,53,47,0,It could be green,unclear,NA,,172
+2,tr,tr_bl,tr_gr,ci_re,75,25,0,"I have some doubt in the child's ability to make this more complex decision so I've left 25% in room for doubt, and 75% likelihood for the blue triangle, as the child didn't have a blue paint option to differentiate the two triangle options.",meta_reasoning,NA,,173
+1,tr,tr_bl,tr_re,sq_gr,52,48,0,they picked either the shape or the colour for you to choose,unclear,NA,,174
+3,ci,ci_bl,ci_re,tr_gr,50,50,0,Because there's 2 circle options.,guess,NA,,175
+4,ci,ci_bl,ci_gr,sq_re,47,47,6,it was more obvious that the child would notice the different circles so they were what I mainly chose.,guess,NA,,176
+6,re,sq_re,tr_re,ci_gr,48,52,0,There's a fair chance that it is either red item.,guess,NA,,177
+1,tr,tr_bl,tr_re,sq_gr,100,0,0,"if it was the red triangle then the red colour would have been picked, if it was the green square then the green colour would have been picked, so it leaves the blue triangle",correct_reasoning,NA,,178
+6,re,sq_re,tr_re,ci_gr,90,10,0,"It is most likely the child is picking the square, but triangle is also an option, even a small option.",correct_reasoning,NA,,179
+2,tr,tr_bl,tr_gr,ci_re,0,100,0,It seemed to correlate best to what was both available and unavailable infront of them,unclear,NA,misunderstood_instr?,180
+1,tr,tr_bl,tr_re,sq_gr,81,19,0,"there were two triangles but no option for blue, so she could have selected the red colour if it was the red triangle",correct_reasoning,NA,,181
+1,tr,tr_bl,tr_re,sq_gr,45,45,10,chance of shape over colour,unclear,NA,,182
+4,ci,ci_bl,ci_gr,sq_re,100,0,0,"I decided to put the sliders in those positions due the fact that with a green and blue circle and red square,  if there are options like plain circle and triangle, color green and red as options. If a child choses plain circle and instead of green, then it means its the blue circle since there is no blue colored circle in the options available to the child and only plain circle.",correct_reasoning,NA,,183
+1,tr,tr_bl,tr_re,sq_gr,75,25,0,There is no blue choice available as a hint. For the red triangle they would likely pick the red paint as a hint. So they use the triangle for the blue triangle - although there is always a chance as a 4yo they will have just picked the shape anyway for either the red/blue regardless.,meta_reasoning,NA,,184
+8,gr,sq_gr,tr_gr,ci_bl,100,0,0,"Child chose green so I discounted the blue circle.  If the child wanted to indicate the green triangle they would (probably, if their reasoning skills were advanced enough) have chosen the triangle message.  Therefore I decided it was the green square.",meta_reasoning,NA,,185
+5,re,sq_re,ci_re,tr_bl,50,50,0,They are both red in colour.,guess,NA,,186
+1,tr,tr_bl,tr_re,sq_gr,70,30,0,"Its the triangle sign, so obviously a triangle. More likely the blue one, as if it as the red one the easier way to describe that would be with the red color.",correct_reasoning,NA,NA,187
+2,tr,tr_bl,tr_gr,ci_re,100,0,0,if it was the green triangle they could pick green as there was no other green so I guess it was blue,correct_reasoning,NA,NA,188
+2,tr,tr_bl,tr_gr,ci_re,100,0,0,I think they'd have specified green if they were indicating the other triangle,correct_reasoning,NA,NA,189
+3,ci,ci_bl,ci_re,tr_gr,100,0,0,"because he could have put red if he had wanted the red circle, so it had to be blue",correct_reasoning,NA,NA,190
+4,ci,ci_bl,ci_gr,sq_re,100,0,0,The participant wanted to highlight a non-green circle,correct_reasoning,NA,NA,191
+5,re,sq_re,ci_re,tr_bl,100,0,0,"I have been told that it was red. If it was the red circle the participant would have chosen the blank circle, this would have left me with only one answer. There is no option for the previous participant to choose square so they could only describe it as red",correct_reasoning,NA,NA,192
+7,gr,sq_gr,ci_gr,tr_re,90,10,0,if it were red triangle she wold have chosen either red or triangle. if it were green circle she would have chosen circle. makes most sense to pick green for the square,correct_reasoning,NA,NA,193
+7,gr,sq_gr,ci_gr,tr_re,100,0,0,if it had been the green circle they would have chosen circle,correct_reasoning,NA,NA,194
+8,gr,sq_gr,tr_gr,ci_bl,100,0,0,I saw the green colour so knew it would be either of the green shapes. Then i saw that they had a triangle but no square so if it were the triangle they would've picked the triangle. So i assumed it was the square.,correct_reasoning,NA,NA,195
+8,gr,sq_gr,tr_gr,ci_bl,100,0,0,"He chose green but couldn't choose square, so that it",correct_reasoning,NA,NA,196
+5,re,sq_re,ci_re,tr_bl,81,19,0,"Because the participant is much more likely to have wanted to choose the red square, as if they wanted to choose the red circle they could have given the circle option instead.",correct_reasoning,NA,NA,197
+3,ci,ci_bl,ci_re,tr_gr,100,0,0,"If it were the red circle, they should have chosen the 'red' clue as that would uniquely identify the red circle. I assume their choice was forced to use 'circle' to identify the blue one.",correct_reasoning,NA,NA,198
+1,tr,tr_bl,tr_re,sq_gr,100,0,0,could have chosen red if it was the other triangle,correct_reasoning,NA,NA,199
+4,ci,ci_bl,ci_gr,sq_re,100,0,0,"since the green brush wasnt put, it means its the blue circle.",correct_reasoning,NA,NA,200
+7,gr,sq_gr,ci_gr,tr_re,85,15,0,"It could have meant the green circle but because there is a circle option, if they meant that one, they could have selected the circle rather than green.",correct_reasoning,NA,NA,201
+3,ci,ci_bl,ci_re,tr_gr,100,0,0,Because they couldn't choose the blue option as it wasn't there so the only option for this was circle for the blue circle,correct_reasoning,NA,NA,202
+3,ci,ci_bl,ci_re,tr_gr,100,0,0,"I chose 100% where all other symbols would have not suggested only one option, where there could have been 2 options I chose 50%",correct_reasoning,NA,NA,203
+6,re,sq_re,tr_re,ci_gr,100,0,0,"The correct shape has to be red, and i feel that if it was the triangle the participant would have used the triangle shape as the hint",correct_reasoning,NA,NA,204
+3,ci,ci_bl,ci_re,tr_gr,80,20,0,"Because there is a red colour to choose from but no blue. So it makes sense to assume they want me to pick blue over red although a slim chance they want me to go for red.
+
+The green triangle is not a circle, so it's very unlikely they want me to go for this choice.",correct_reasoning,NA,NA,205
+4,ci,ci_bl,ci_gr,sq_re,100,0,0,"There is a clear answer (green colour) to specify the green circle, so using the circle must mean it was the blue circle",correct_reasoning,NA,NA,206
+2,tr,tr_bl,tr_gr,ci_re,100,0,0,"Previous participant had red or green but chose a blank shape, leaving only one option for the blue triangle",correct_reasoning,NA,NA,207
+5,re,sq_re,ci_re,tr_bl,100,0,0,The circle symbol could have been selected for the circle and not the red colour.,correct_reasoning,NA,NA,208
+8,gr,sq_gr,tr_gr,ci_bl,71,29,0,"Because if they wanted me to pick the triangle they would have selected the triangle, but it could still be the traingel",correct_reasoning,NA,NA,209
+4,ci,ci_bl,ci_gr,sq_re,100,0,0,"Because there is no blue paint, so they chose a plian cirecle. They could have chosen green to represent a green circle.",correct_reasoning,NA,NA,210
+5,re,sq_re,ci_re,tr_bl,75,25,0,The circle and the square are both red. The circle is available as a message but the square is not. I think the participant chose 'red' because he/ she could not choose 'square'.,correct_reasoning,NA,NA,211
+6,re,sq_re,tr_re,ci_gr,100,0,0,"the previous participant would select the only option that could identify the correct shape. whether that was colour or shape. If there were multiple options, they chose the best image to reduce the choice to 50/50",correct_reasoning,NA,NA,212
+7,gr,sq_gr,ci_gr,tr_re,100,0,0,"I imagine it was myself selecting the previous participants entries. If there was more than one colour option available, I went in order of the messages available to the participant to figure out which was the correct one needed.",correct_reasoning,NA,NA,213
+8,gr,sq_gr,tr_gr,ci_bl,95,5,0,"There are two green shapes, however the triangle is offered as an option of messages so I would assume the other participant is referring to the square (not refenced to).",correct_reasoning,NA,NA,214
+1,tr,tr_bl,tr_re,sq_gr,83,17,0,Because if they chose red then it would be the other triangle therefore it is more likely to be the blue one when they choose triangle as there is no blue option,correct_reasoning,NA,NA,215
+6,re,sq_re,tr_re,ci_gr,90,10,0,"There are two red items to pick from. I thought that if it was the red triangle they would have selected the triangle instead of red, however i wasn;t 100% sure",correct_reasoning,NA,NA,216
+3,ci,ci_bl,ci_re,tr_gr,100,0,0,There was a circle but the choice of colours were only red or green,correct_reasoning,NA,NA,217
+2,tr,tr_bl,tr_gr,ci_re,100,0,0,the option was triancle but they could not put blue as it was not a choice. If they had thought it was green then they would have put that instead of the triangle to show this,correct_reasoning,NA,NA,218
+1,tr,tr_bl,tr_re,sq_gr,100,0,0,If he had intended it to be the red triangle it would have been more logical to select the red colour,correct_reasoning,NA,NA,219
+5,re,sq_re,ci_re,tr_bl,100,0,0,"Because red was chosen. If the circle or triangle was chosen they would be the answer, but as red was chosen it must be the square. Out of the two red shapes, only the square was not an option for the previous participant to pick.",correct_reasoning,NA,NA,220
+7,gr,sq_gr,ci_gr,tr_re,100,0,0,Of the greeen shapes there is no hint for square so the clue being colour rather than shape should rule out the circle.,correct_reasoning,NA,NA,221
+1,tr,tr_bl,tr_re,sq_gr,100,0,0,"I decided this because the participant was clearly referring to one of the two triangles. One of the triangles is red, and is the only red shape available. Therefore if it had been that one the participant would have put the red paint. As they did not I can infer that they were referring to the triangle who's colour was not available to select.",correct_reasoning,NA,NA,222
+2,tr,tr_bl,tr_gr,ci_re,100,0,0,Triangle and no blue available,correct_reasoning,NA,NA,223
+8,gr,sq_gr,tr_gr,ci_bl,80,20,0,"The shape the participant wants me to pick is green - so either the square or the triangle. As there is a separate option for triangle if the participant wanted me to pick that, I presume they would chosen that.  Therefore I am almost certain they want me to pick the green square. Almost certain=80%!",correct_reasoning,NA,NA,224
+4,ci,ci_bl,ci_gr,sq_re,50,50,0,It could've been either circle.,guess,NA,NA,225
+1,tr,tr_bl,tr_re,sq_gr,50,50,0,Because it could equally be either colour triangle but it must be that shape.,guess,NA,NA,226
+1,tr,tr_bl,tr_re,sq_gr,50,50,0,because the symbol is the only option as no colour,guess,NA,NA,227
+2,tr,tr_bl,tr_gr,ci_re,46,54,0,because they are triangles,guess,NA,NA,228
+2,tr,tr_bl,tr_gr,ci_re,50,50,0,"The clue is a triangle, there are two of them so it's a 50/50 split.",guess,NA,NA,229
+4,ci,ci_bl,ci_gr,sq_re,50,50,0,It's a 50/50 chance.,guess,NA,NA,230
+7,gr,sq_gr,ci_gr,tr_re,50,50,0,It could be either green option,guess,NA,NA,231
+7,gr,sq_gr,ci_gr,tr_re,50,50,0,participant chose green - trying to indicate shape is either green shape in options,guess,NA,NA,232
+7,gr,sq_gr,ci_gr,tr_re,50,50,0,"Different shapes, same colours, indicates it could be either of the 2",guess,NA,NA,233
+8,gr,sq_gr,tr_gr,ci_bl,50,50,0,because there are 2 shapes both coloured green so a fifty fifty chance that one would get picked,guess,NA,NA,234
+8,gr,sq_gr,tr_gr,ci_bl,50,50,0,Because there are two green shapes.,guess,NA,NA,235
+2,tr,tr_bl,tr_gr,ci_re,48,52,0,unsure on what triangle,guess,NA,NA,236
+7,gr,sq_gr,ci_gr,tr_re,50,50,0,as the square was not an option choosing green made it a 50/50 choice,guess,NA,NA,237
+6,re,sq_re,tr_re,ci_gr,50,50,0,the triangle and square are both red,guess,NA,NA,238
+4,ci,ci_bl,ci_gr,sq_re,44,42,14,They choose a circle so I thought it would be about a 50/50 chance.,guess,NA,NA,239
+7,gr,sq_gr,ci_gr,tr_re,50,50,0,Because these are the only two green shapes available,guess,NA,NA,240
+1,tr,tr_bl,tr_re,sq_gr,50,50,0,Because of the icon being the triangle means 50/50 chance of either of them,guess,NA,NA,241
+7,gr,sq_gr,ci_gr,tr_re,50,50,0,Because both the circle and the triangle are coloured green so if the message given was the green paint tube then the odds of guessing correcctly are 50/50,guess,NA,NA,242
+3,ci,ci_bl,ci_re,tr_gr,50,50,0,because they chose the circle,guess,NA,NA,243
+8,gr,sq_gr,tr_gr,ci_bl,50,50,0,BOTH SHAPES WERE GREEN SO IT'SA 50:50 CHANCE OF GETTING IT RIGHT,guess,NA,NA,244
+5,re,sq_re,ci_re,tr_bl,50,50,0,Pervious participant chose red. i split the slide on the two red shapes given 50/50,guess,NA,NA,245
+7,gr,sq_gr,ci_gr,tr_re,50,50,0,because both the square and the triangle are green,guess,NA,NA,246
+6,re,sq_re,tr_re,ci_gr,50,50,0,they chose red and both shapes are red so can be either,guess,NA,NA,247
+1,tr,tr_bl,tr_re,sq_gr,50,50,0,Because there's 2 triangles so it's a 50-50 choice.,guess,NA,NA,248
+4,ci,ci_bl,ci_gr,sq_re,50,50,0,there are two choices of circle,guess,NA,NA,249
+2,tr,tr_bl,tr_gr,ci_re,51,49,0,because it is more or less a 50/50 chance it being either of the triangles since previous participant chose a white triangle.,guess,NA,NA,250
+6,re,sq_re,tr_re,ci_gr,50,50,0,"They chose red, there was 2 red shapes so 50/50",guess,NA,NA,251
+8,gr,sq_gr,tr_gr,ci_bl,50,50,0,"because the previous participant chose the green colour which means its either the green triangle or green square, so they would have to choose between those 2 shapes.",guess,NA,NA,252
+6,re,sq_re,tr_re,ci_gr,50,50,0,Because the answer has to be a red shape due to the clue being red paint. So therefore there is a 50/50% between the two red objects.,guess,NA,NA,253
+4,ci,ci_bl,ci_gr,sq_re,50,50,0,has to be one of the circles,guess,NA,NA,254
+2,tr,tr_bl,tr_gr,ci_re,50,50,0,There is an equal likelihood that it is the green or blue triangle as the given message is a triangle,guess,NA,NA,255
+7,gr,sq_gr,ci_gr,tr_re,50,50,0,equal chance,guess,NA,NA,256
+7,gr,sq_gr,ci_gr,tr_re,50,50,0,because the are both green and the,guess,NA,NA,257
+5,re,sq_re,ci_re,tr_bl,50,50,0,Because it would indicate either on the red,guess,NA,NA,258
+6,re,sq_re,tr_re,ci_gr,50,50,0,Because red was shown and there are 2 red shapes,guess,NA,NA,259
+4,ci,ci_bl,ci_gr,sq_re,50,50,0,they picked a circle but I don't know which colour it is,guess,NA,NA,260
+3,ci,ci_bl,ci_re,tr_gr,80,20,0,"The previous participant could have chosen to direct me with the red clue, which would have been especially directive, but they didn't which leads me to believe they are suggesting the only circle which isn't red. I think they probably meant the blue circle, as a blue clue, blue wasn't an option. However, I can't discount that they didn't act overly quickly without thinking, so there is a smaller possibility they did actually mean the red circle. Therefore I suspect they intended the blue circle but I can't assume 100% that they didn't mean the red one and have assigned the greatest likelihood to the blue but won't confidently believe they didn't mean the red one.",meta_reasoning,NA,NA,261
+3,ci,ci_bl,ci_re,tr_gr,90,10,0,Because you could have isolated the red circle by selecting Red. But they may not have noticed it.,meta_reasoning,NA,NA,262
+4,ci,ci_bl,ci_gr,sq_re,80,20,0,Because it is most probably the blue circle as there is no blue paint option however they may have rushed and not noticed the green paint option so it could be the green circle,meta_reasoning,NA,NA,263
+3,ci,ci_bl,ci_re,tr_gr,99,1,0,"The messages available don't have a blue colour to distinguish the different circles if the blue one was highlighted, therefore it is most llikely the blue circle is the right answer. There is a small chance the participant giving the answer wasn't paying attention, therefore I put a 1% chance on the other circle",meta_reasoning,NA,NA,264
+4,ci,ci_bl,ci_gr,sq_re,31,69,0,because maybe that was the first option so he she thought it would be best to chose this,salience/preference,NA,NA,265
+2,tr,tr_bl,tr_gr,ci_re,100,0,0,I used the rule of deduction?,unclear,NA,NA,266
+4,ci,ci_bl,ci_gr,sq_re,100,0,0,tried to use logic to determine what the previous particpant was trying to show me,unclear,NA,NA,267
+5,re,sq_re,ci_re,tr_bl,21,43,36,i think the numbers for each are reasonable,unclear,NA,NA,268
+5,re,sq_re,ci_re,tr_bl,100,0,0,Sometimes it was obvious that there was only one shape it could be and other times it was undecided between one of two given the options the previous participant had,unclear,NA,NA,269
+1,tr,tr_bl,tr_re,sq_gr,90,10,0,As the Blue Triangle is the last shape and color on the slide,unclear,NA,NA,270
+4,ci,ci_bl,ci_gr,sq_re,24,52,24,Probability,unclear,NA,NA,271
+3,ci,ci_bl,ci_re,tr_gr,30,27,43,"it is a hard call to make but i feel like if there is no shape in that colour, they use the colour rather than shape so thats how i worked mine out",unclear,NA,NA,272
+6,re,sq_re,tr_re,ci_gr,100,0,0,process of elimination,unclear,NA,NA,273
+7,gr,sq_gr,ci_gr,tr_re,100,0,0,The clues they gave aligned with which shape I thought it matched up to,unclear,NA,NA,274
+1,tr,tr_bl,tr_re,sq_gr,0,100,0,Because there was a red colour option and they picked the red triangle,misunderstood_instr,NA,NA,275

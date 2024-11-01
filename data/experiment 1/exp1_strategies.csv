@@ -1,0 +1,93 @@
+itemid,msg,target,competitor,distractor,prob1,prob2,prob3,explanation,strategy_tag,strategy_subtag,participant_id
+1,tr,sq_gr,tr_re,tr_bl,0,0,100,"The hint was triangle, but there are two triangles to choose from. If it was the red triangle I would have sent the red paint. So I have chosen the triangle of blue, as they could not have sent a blue hint",correct_reasoning,,4
+7,gr,ci_gr,tr_re,sq_gr,100,0,0,"The child ""Intended"" this as there was no available Square message. And assumed the alien would know this.",correct_reasoning,,7
+3,ci,ci_bl,ci_re,tr_gr,100,0,0,"If it was a red circle, the child would have chosen red paint.",correct_reasoning,,8
+1,tr,sq_gr,tr_re,tr_bl,0,0,100,would choose red for other triangle,correct_reasoning,,10
+6,re,tr_re,ci_gr,sq_re,0,0,100,"There are two red images but if the participant wanted me to choose the red triangle they could have just used the triangle message, so the fact they chose the red message means it is the square they wanted me to pick.",correct_reasoning,,15
+1,tr,tr_bl,tr_re,sq_gr,75,25,0,"because the triangle sign could be either the red or blue one, but if the red one was highlighted then the child would likely have chosen the red paint image",correct_reasoning,,24
+2,tr,tr_bl,tr_gr,ci_re,100,0,0,"I think it is more logical to identify by shape, than colour if needed. If the other person thinks like me, they will have used the triangle symbol as there is no blue paint to differentiate but there is green. Process of elimination would lead me to believe it is a blue triangle.",correct_reasoning,,26
+3,ci,ci_re,ci_bl,tr_gr,25,75,0,The child could have chosen red to indicate the red circle with absolute certaintly but had no other options for the blue circle,correct_reasoning,,27
+8,gr,sq_gr,tr_gr,ci_bl,98,2,0,It's most likely the square as the triangle could have been chosen to represent the other green icon.  I do not specify 100% certainty however as the triangle is a possibility.,correct_reasoning,,36
+3,ci,ci_bl,tr_gr,ci_re,100,0,0,the child said circle and there is a blue one and a red one.  I think the child would have chose the colour red if it had been the red circle so i believe they mean the blue circle.,correct_reasoning,,38
+3,ci,ci_re,tr_gr,ci_bl,0,0,100,"although there are two circles with different colours which means the participant could be referring to either red or blue however, they had the red colour available to them to select. So if it was the red circle, they should have selected the red colour rather than the circle object",correct_reasoning,,40
+1,tr,tr_bl,sq_gr,tr_re,75,0,25,"It is more likely that the previous participant intended me to pick the blue triangle, because there is no blue paint option. If they intended for me to pick the red triangle then it would make more sense for them to pick the red paint option",correct_reasoning,,46
+3,ci,ci_bl,ci_re,tr_gr,100,0,0,"They picked the circle and there is also a color red. THey did not pick red and because the other circle is not red, it must be blue.",correct_reasoning,,49
+3,ci,ci_re,tr_gr,ci_bl,0,0,100,"becuase clearly it was a circle, if he had been the red circile he couldve just done the red paint to show it was the only red shape. as no co.our paint chosen it must be blue",correct_reasoning,,54
+8,gr,ci_bl,sq_gr,tr_gr,0,100,0,"It must be green and there is a triangle option, so must be the square",correct_reasoning,,56
+6,re,tr_re,ci_gr,sq_re,29,0,71,Square shape isn't available as an option.,correct_reasoning,,61
+4,ci,ci_gr,sq_re,ci_bl,0,0,100,"Green was an option, so the only choice for blue is circle",correct_reasoning,,68
+4,ci,ci_bl,ci_gr,sq_re,100,0,0,The user could have chosen green if the green circle was highlighted therefore I think they must have selected the circle to represent the blue circle,correct_reasoning,,72
+3,ci,ci_re,ci_bl,tr_gr,0,100,0,"because it was a circle and two options either red or blue, but they could've selected red if they wanted the red circle selected so had to be blue circle",correct_reasoning,,76
+3,ci,ci_bl,tr_gr,ci_re,85,0,15,"The participant could have chosen red to indicate exactly which object to pick but they chose circle instead (of which there are two). That tells me that the option to communicate exactly the object chosen wasn't available, i.e. blue",correct_reasoning,,77
+7,gr,tr_re,ci_gr,sq_gr,0,0,100,There are 2 green shapes but if it was the green circle the person would have selected circle to show it was the green circle.,correct_reasoning,,79
+6,re,tr_re,sq_re,ci_gr,0,100,0,if it was the red triangle I think the message would have been the triangle symbol. The only other red image is the square for which there is not a square symbol to send in the message,correct_reasoning,NA,82
+8,gr,ci_bl,sq_gr,tr_gr,0,100,0,If they were trying to say green square they could put green or square but there is only green color. If they were trying to say green triangle they would have put triangle so as not to cause confusion. So the only option is green square because square was not available and it is green.,correct_reasoning,NA,83
+1,tr,sq_gr,tr_bl,tr_re,0,78,22,"blue is not an option, so picking triange distinguishes it from picking red (for the red triangle)",correct_reasoning,NA,87
+4,ci,ci_bl,sq_re,ci_gr,50,0,50,"Because the circle did not offer a colour, although in hindsight if they wanted green circle, they could have selected green",changed_mind,,58
+3,ci,tr_gr,ci_re,ci_bl,0,50,50,indicates it is a cicle bi=ut there was no colour so it could be either of the circles,guess,,3
+2,tr,tr_bl,tr_gr,ci_re,50,50,0,I put the sliders in those positions because there are two triangles and one circle so i don't think it would be the circle and so it is 50/50 between the two triangles,guess,,5
+1,tr,tr_re,tr_bl,sq_gr,54,46,0,almost equal chance,guess,,9
+5,re,tr_bl,sq_re,ci_re,0,50,50,"Because there are 2 different red shapes, therefore they is a 50% chance that they pick either red shape",guess,,11
+1,tr,tr_bl,sq_gr,tr_re,50,0,50,Because there are two possible answers,guess,,12
+7,gr,ci_gr,tr_re,sq_gr,50,0,50,"BECAUSE THE CHILD SAID GREEN, AND THEIR ARE TWO GREEN OPTIONS",guess,,13
+3,ci,ci_bl,tr_gr,ci_re,48,0,52,"There are 2 circles to choose from, so it would be nearly 50/50 that the child choose either one.",guess,,14
+7,gr,tr_re,sq_gr,ci_gr,0,50,50,They are both green,guess,,16
+1,tr,tr_bl,sq_gr,tr_re,50,0,50,because it could be either of the triangles,guess,,17
+8,gr,sq_gr,ci_bl,tr_gr,50,0,50,Because there are two shapes the colour green. Therefore it would be a 50/50 chance of being either.,guess,,18
+5,re,sq_re,tr_bl,ci_re,50,0,50,As they are both red,guess,,19
+1,tr,tr_bl,sq_gr,tr_re,50,0,50,law of averages,guess,,20
+2,tr,ci_re,tr_bl,tr_gr,50,0,50,They could both be shown by the messages,guess,,25
+1,tr,sq_gr,tr_re,tr_bl,9,46,45,Because they picked the triangle so I split between the two buy put a small chance in square just incase as I was not 100% sure they wouldn't of wanted that one.,guess,,32
+1,tr,tr_re,tr_bl,sq_gr,50,50,0,"they seemed the logical place to put them
+color to color
+shape to shape",guess,,34
+7,gr,ci_gr,sq_gr,tr_re,50,50,0,the participant chose green which could be any of these two options.,guess,,35
+3,ci,tr_gr,ci_bl,ci_re,0,50,50,Equal chance,guess,,37
+7,gr,tr_re,sq_gr,ci_gr,0,50,50,Because these 2 objects are green,guess,,39
+5,re,sq_re,ci_re,tr_bl,44,44,12,because red in 2 choices,guess,,41
+4,ci,ci_gr,sq_re,ci_bl,50,0,50,"the person said circle, and there are 2 circles to pick one, so it is a 50% chance",guess,,42
+2,tr,tr_gr,ci_re,tr_bl,50,0,50,it was 50/50 as to which of the 2 objects were to be described,guess,,43
+5,re,tr_bl,sq_re,ci_re,0,50,50,"Both shapes are red, the same as the colour the child picked. Therefore, there is an equal chance the child intended to convey either of these two shapes.",guess,,44
+2,tr,ci_re,tr_gr,tr_bl,0,50,50,because there are 2 triangles so 50/50 which one it would be...,guess,,50
+7,gr,tr_re,ci_gr,sq_gr,0,50,50,"Because there are 2 green options, the chance of either being picked is 50/50.",guess,,51
+3,ci,ci_bl,tr_gr,ci_re,50,0,50,"Based on the message, there is a 50% chance either circle could be the answer",guess,,52
+1,tr,sq_gr,tr_re,tr_bl,0,50,50,There is two triangles,guess,,53
+6,re,ci_gr,sq_re,tr_re,0,50,50,colour red was picked so there are two options 50 50 chance,guess,,55
+2,tr,tr_gr,ci_re,tr_bl,50,0,50,two triangles... could of been green or blue,guess,,57
+6,re,ci_gr,sq_re,tr_re,0,49,51,50 50 ish split,guess,,59
+3,ci,ci_re,ci_bl,tr_gr,50,50,0,The child only indicated that the shape was a circle but did not indicate the colour so it's 50/50 which colour the circle is,guess,,60
+5,re,sq_re,ci_re,tr_bl,49,49,2,it could have been either of the red objects,guess,,62
+7,gr,ci_gr,tr_re,sq_gr,50,0,50,"There are 2 selections with the colour green, there is a 50% chance the child have chosen either one.",guess,,63
+5,re,ci_re,sq_re,tr_bl,50,50,0,As red could mean they wanted to choose either the red circle or red rectangle.,guess,,65
+2,tr,tr_gr,ci_re,tr_bl,51,0,49,"the child said triangle, those 2 have ~ equal split.",guess,,66
+4,ci,ci_bl,sq_re,ci_gr,50,0,50,to gauge the chances of it being that particular shape/colour,guess,,70
+2,tr,tr_bl,tr_gr,ci_re,50,50,0,Because there are 2 triangle so there is an equal chance of the child trying to identify each,guess,,73
+8,gr,sq_gr,ci_bl,tr_gr,50,0,50,The child had indicated green and there are 2 green options available,guess,,74
+7,gr,tr_re,ci_gr,sq_gr,0,50,50,both green and match the shapes,guess,,78
+1,tr,sq_gr,tr_bl,tr_re,0,50,50,because they are both triangles,guess,,80
+5,re,sq_re,ci_re,tr_bl,50,50,0,Both shapes are red so could be either,guess,NA,81
+2,tr,tr_gr,tr_bl,ci_re,50,50,0,There is an even chance I would pick either triangle.,guess,NA,84
+4,ci,ci_gr,ci_bl,sq_re,50,50,0,both were equally circles,guess,NA,86
+4,ci,sq_re,ci_bl,ci_gr,0,50,50,because it wants a circle and their are two circles so it is 50/50 as to which one it is.,guess,NA,89
+3,ci,ci_re,tr_gr,ci_bl,14,2,84,"If they meant the red circle they would have likely picked the red paint icon, therefore I picked blue. I left some allowance for the participant picking illogically or mistakenly.",meta_reasoning,limited resources,2
+5,re,sq_re,ci_re,tr_bl,75,25,0,"Because there are two red items (circle and square) which would put the odds at 50-50, but the child would have had the opportunity to choose the circle icon if it was the red circle so I think there's a chance (25%) that the child operated entirely off colour but also a chance (75%) that they picked the red colour because there was no shape option of the square",meta_reasoning,limited resources,6
+3,ci,ci_bl,tr_gr,ci_re,73,0,27,"Well, if the child wanted the red circle picked he most likely would have chosen red rather than circle. But there is some slight doubt. So I accounted for that not very likely possibility.",meta_reasoning,limited resources,21
+3,ci,ci_re,ci_bl,tr_gr,97,3,0,because there is a circle and a red option but no blue option to pick. I assume a child would pick the red circle but may not notice there is no blue colour,meta_reasoning,limited resources,30
+5,re,tr_bl,sq_re,ci_re,0,75,25,"If it was the square there's no unambiguous way of indicating, but there's a chance they were just picking by colour without making that calculation",meta_reasoning,limited resources,33
+5,re,tr_bl,sq_re,ci_re,0,95,5,"0 for the blue triangle as the colour is red. 
+I think the  most likely is the red square, as there is no square button. Whereas there is a circle button and there is only 1 circle. But I haven't put it at 100% for red square as I think some people may miss this.",meta_reasoning,limited resources,45
+2,tr,tr_bl,ci_re,tr_gr,70,0,30,"I am in two minds if a 4 year old would be that smart to choose the green paint if it is the green triangle, rather than the triangle shape. I really don't know. I think there is a 70 percent chance that the child would be smart enough to do that, so I think by chosing the triangle shape he/she is trying to tell the alien to pick the blue triangle. ( Hope this makes sense!!",meta_reasoning,limited resources,47
+3,ci,ci_bl,ci_re,tr_gr,79,21,0,"The child should pick the circle to indicate the blue and red to indicate the red circle, however a Childs thoughts may not follow this process, hence the 20% for error.",meta_reasoning,limited resources,71
+3,ci,ci_bl,ci_re,tr_gr,80,20,0,Blue is the most obvious as they could have gone for the red paint if they wanted you to chose the red circle. However there is a small chance they did not think of that and just chose the circle,meta_reasoning,limited resources,75
+4,ci,sq_re,ci_gr,ci_bl,0,25,75,"Because if the person wanted me to select the green circle they could have used the green paint, but it can't be fully ruled out. There is no blue paint option so the closet is the circle.",meta_reasoning,NA,85
+8,gr,tr_gr,ci_bl,sq_gr,100,0,0,there was no square available in the messages available to the child so it had to be the green triangle,misunderstood_instr,,22
+3,ci,tr_gr,ci_re,ci_bl,0,69,31,the red option may be more popular,salience/preference,,23
+7,gr,sq_gr,tr_re,ci_gr,69,0,31,Thought the perception of colours stuck out,salience/preference,,69
+7,gr,ci_gr,sq_gr,tr_re,100,0,0,"green paint at top, green circle and square mid tier and only green circle at the bottom",unclear,,1
+3,ci,ci_re,tr_gr,ci_bl,87,0,13,colour match,unclear,,28
+3,ci,ci_re,tr_gr,ci_bl,30,0,70,I based it on the shapes and colours and how I would respond to the task if I was the one sending the message.,unclear,,29
+5,re,sq_re,ci_re,tr_bl,50,50,0,i did what the ask asked and said what i thought the kids were thinking,unclear,,31
+4,ci,sq_re,ci_gr,ci_bl,0,25,75,If there wasn't the right option I would pick the closest to that and then give 25 to the other similar one just in case,unclear,,48
+8,gr,sq_gr,tr_gr,ci_bl,100,0,0,Because it's the only applicable choice.,unclear,,64
+5,re,ci_re,sq_re,tr_bl,48,24,28,can determin circle and triangle,unclear,,67
+1,tr,tr_bl,sq_gr,tr_re,52,0,48,Apologies I meant to put it 50/50,unclear,NA,88
